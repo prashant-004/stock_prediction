@@ -7,4 +7,3 @@ plotly
 finta
 scikit-learn
 xgboost
--e .
