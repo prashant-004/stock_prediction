@@ -1,4 +1,3 @@
 # virtual environment
 stock/
-*.egg-info/
-notebook/*.html
+
